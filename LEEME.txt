@@ -1,0 +1,24 @@
+TRES ERRE - SITIO WEB
+
+Archivos:
+- index.html: contenido y enlaces de contacto
+- styles.css: diseño adaptable
+- script.js: menú móvil y año automático
+
+CONTACTO CONFIGURADO
+Teléfono/WhatsApp: +56 9 3348 8452
+Correo: renato.rios@inacapmail.cl
+Facebook: https://www.facebook.com/profile.php?id=61553946764302
+
+PUBLICAR GRATIS CON GITHUB PAGES
+1. Crea una cuenta en https://github.com si no tienes una.
+2. Crea un repositorio público llamado tres-erre-web.
+3. Sube index.html, styles.css, script.js y este LEEME.txt a la raíz del repositorio.
+4. Abre Settings > Pages.
+5. En Build and deployment, selecciona Deploy from a branch; branch main y folder /(root), luego Save.
+6. Espera la publicación. GitHub mostrará la dirección pública en esa sección.
+
+NOTAS
+- La galería y portada usan imágenes referenciales remotas de Unsplash; se requiere internet para verlas. Reemplázalas por fotos propias editando los enlaces src en index.html y la URL de fondo en styles.css.
+- Instagram no fue agregado porque no se proporcionó un enlace.
+- WhatsApp y llamada abren la aplicación correspondiente en dispositivos compatibles.
